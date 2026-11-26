@@ -84,4 +84,5 @@ This project is an experimental prototype trained on a relatively small pilot da
 
 ## Team
 
-Add project team members and their contributions here.
+Zahra Khan
+Aroona Noor
